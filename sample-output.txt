@@ -1,0 +1,1714 @@
+
+> EF508207.1 || DQ265095.1
+Score of alignment: 2901
+Number of matches: 1462
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 98.45%
+
+
+
+> EF508207.1 || EU069611.1
+Score of alignment: 2562
+Number of matches: 1349
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 90.84%
+
+
+
+> EF508207.1 || EF508204.1
+Score of alignment: 2898
+Number of matches: 1461
+Number of gaps: 2
+Length of alignment: 1485
+Identity: 98.38%
+
+
+
+> EF508207.1 || EF508198.1
+Score of alignment: 2925
+Number of matches: 1470
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 98.99%
+
+
+
+> EF508207.1 || M24447.1
+Score of alignment: 1473
+Number of matches: 986
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 66.40%
+
+
+
+> EF508207.1 || M24448.1
+Score of alignment: 1470
+Number of matches: 985
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 66.33%
+
+
+
+> EF508207.1 || M24449.1
+Score of alignment: 1458
+Number of matches: 981
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 66.06%
+
+
+
+> EF508207.1 || M24451.1
+Score of alignment: 1452
+Number of matches: 979
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.93%
+
+
+
+> EF508207.1 || M24450.1
+Score of alignment: 1467
+Number of matches: 984
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 66.26%
+
+
+
+> EF508207.1 || AY338493.1
+Score of alignment: -1458
+Number of matches: 9
+Number of gaps: 2
+Length of alignment: 1485
+Identity: 0.61%
+
+
+
+> EF508207.1 || AY338492.1
+Score of alignment: -1458
+Number of matches: 9
+Number of gaps: 2
+Length of alignment: 1485
+Identity: 0.61%
+
+
+
+> EF508207.1 || EU045319.1
+Score of alignment: -1470
+Number of matches: 5
+Number of gaps: 1
+Length of alignment: 1485
+Identity: 0.34%
+
+
+
+> EF508207.1 || EU045323.1
+Score of alignment: -1470
+Number of matches: 5
+Number of gaps: 1
+Length of alignment: 1485
+Identity: 0.34%
+
+
+
+> EF508207.1 || DQ341204.1
+Score of alignment: -1470
+Number of matches: 5
+Number of gaps: 1
+Length of alignment: 1485
+Identity: 0.34%
+
+
+
+> EF508207.1 || AF231724.1
+Score of alignment: 1386
+Number of matches: 957
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 64.44%
+
+
+
+> EF508207.1 || EF436281.1
+Score of alignment: -1470
+Number of matches: 5
+Number of gaps: 10
+Length of alignment: 1485
+Identity: 0.34%
+
+
+
+> EF508207.1 || DQ341219.1
+Score of alignment: 1410
+Number of matches: 965
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 64.98%
+
+
+
+> EF508207.1 || DQ341218.1
+Score of alignment: 1401
+Number of matches: 962
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 64.78%
+
+
+
+> EF508207.1 || AY780644.1
+Score of alignment: 1392
+Number of matches: 959
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 64.58%
+
+
+
+> DQ265095.1 || EU069611.1
+Score of alignment: 2571
+Number of matches: 1352
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 91.04%
+
+
+
+> DQ265095.1 || EF508204.1
+Score of alignment: 2901
+Number of matches: 1462
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 98.45%
+
+
+
+> DQ265095.1 || EF508198.1
+Score of alignment: 2928
+Number of matches: 1471
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 99.06%
+
+
+
+> DQ265095.1 || M24447.1
+Score of alignment: 1449
+Number of matches: 978
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.86%
+
+
+
+> DQ265095.1 || M24448.1
+Score of alignment: 1452
+Number of matches: 979
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.93%
+
+
+
+> DQ265095.1 || M24449.1
+Score of alignment: 1449
+Number of matches: 978
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.86%
+
+
+
+> DQ265095.1 || M24451.1
+Score of alignment: 1428
+Number of matches: 971
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.39%
+
+
+
+> DQ265095.1 || M24450.1
+Score of alignment: 1443
+Number of matches: 976
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.72%
+
+
+
+> DQ265095.1 || AY338493.1
+Score of alignment: -1458
+Number of matches: 9
+Number of gaps: 2
+Length of alignment: 1485
+Identity: 0.61%
+
+
+
+> DQ265095.1 || AY338492.1
+Score of alignment: -1458
+Number of matches: 9
+Number of gaps: 2
+Length of alignment: 1485
+Identity: 0.61%
+
+
+
+> DQ265095.1 || EU045319.1
+Score of alignment: -1470
+Number of matches: 5
+Number of gaps: 1
+Length of alignment: 1485
+Identity: 0.34%
+
+
+
+> DQ265095.1 || EU045323.1
+Score of alignment: -1470
+Number of matches: 5
+Number of gaps: 1
+Length of alignment: 1485
+Identity: 0.34%
+
+
+
+> DQ265095.1 || DQ341204.1
+Score of alignment: -1470
+Number of matches: 5
+Number of gaps: 1
+Length of alignment: 1485
+Identity: 0.34%
+
+
+
+> DQ265095.1 || AF231724.1
+Score of alignment: 1377
+Number of matches: 954
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 64.24%
+
+
+
+> DQ265095.1 || EF436281.1
+Score of alignment: -1470
+Number of matches: 5
+Number of gaps: 10
+Length of alignment: 1485
+Identity: 0.34%
+
+
+
+> DQ265095.1 || DQ341219.1
+Score of alignment: 1392
+Number of matches: 959
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 64.58%
+
+
+
+> DQ265095.1 || DQ341218.1
+Score of alignment: 1383
+Number of matches: 956
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 64.38%
+
+
+
+> DQ265095.1 || AY780644.1
+Score of alignment: 1392
+Number of matches: 959
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 64.58%
+
+
+
+> EU069611.1 || EF508204.1
+Score of alignment: 2577
+Number of matches: 1354
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 91.18%
+
+
+
+> EU069611.1 || EF508198.1
+Score of alignment: 2583
+Number of matches: 1356
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 91.31%
+
+
+
+> EU069611.1 || M24447.1
+Score of alignment: 1440
+Number of matches: 975
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.66%
+
+
+
+> EU069611.1 || M24448.1
+Score of alignment: 1425
+Number of matches: 970
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.32%
+
+
+
+> EU069611.1 || M24449.1
+Score of alignment: 1443
+Number of matches: 976
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.72%
+
+
+
+> EU069611.1 || M24451.1
+Score of alignment: 1443
+Number of matches: 976
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.72%
+
+
+
+> EU069611.1 || M24450.1
+Score of alignment: 1422
+Number of matches: 969
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.25%
+
+
+
+> EU069611.1 || AY338493.1
+Score of alignment: -1362
+Number of matches: 41
+Number of gaps: 5
+Length of alignment: 1485
+Identity: 2.76%
+
+
+
+> EU069611.1 || AY338492.1
+Score of alignment: -1362
+Number of matches: 41
+Number of gaps: 5
+Length of alignment: 1485
+Identity: 2.76%
+
+
+
+> EU069611.1 || EU045319.1
+Score of alignment: -1473
+Number of matches: 4
+Number of gaps: 1
+Length of alignment: 1485
+Identity: 0.27%
+
+
+
+> EU069611.1 || EU045323.1
+Score of alignment: -1473
+Number of matches: 4
+Number of gaps: 1
+Length of alignment: 1485
+Identity: 0.27%
+
+
+
+> EU069611.1 || DQ341204.1
+Score of alignment: -1473
+Number of matches: 4
+Number of gaps: 1
+Length of alignment: 1485
+Identity: 0.27%
+
+
+
+> EU069611.1 || AF231724.1
+Score of alignment: 1371
+Number of matches: 952
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 64.11%
+
+
+
+> EU069611.1 || EF436281.1
+Score of alignment: -1485
+Number of matches: 0
+Number of gaps: 1
+Length of alignment: 1485
+Identity: 0.00%
+
+
+
+> EU069611.1 || DQ341219.1
+Score of alignment: 1377
+Number of matches: 954
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 64.24%
+
+
+
+> EU069611.1 || DQ341218.1
+Score of alignment: 1371
+Number of matches: 952
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 64.11%
+
+
+
+> EU069611.1 || AY780644.1
+Score of alignment: 1356
+Number of matches: 947
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 63.77%
+
+
+
+> EF508204.1 || EF508198.1
+Score of alignment: 2925
+Number of matches: 1470
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 98.99%
+
+
+
+> EF508204.1 || M24447.1
+Score of alignment: 1446
+Number of matches: 977
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.79%
+
+
+
+> EF508204.1 || M24448.1
+Score of alignment: 1449
+Number of matches: 978
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.86%
+
+
+
+> EF508204.1 || M24449.1
+Score of alignment: 1452
+Number of matches: 979
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.93%
+
+
+
+> EF508204.1 || M24451.1
+Score of alignment: 1431
+Number of matches: 972
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.45%
+
+
+
+> EF508204.1 || M24450.1
+Score of alignment: 1434
+Number of matches: 973
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.52%
+
+
+
+> EF508204.1 || AY338493.1
+Score of alignment: -1311
+Number of matches: 58
+Number of gaps: 13
+Length of alignment: 1485
+Identity: 3.91%
+
+
+
+> EF508204.1 || AY338492.1
+Score of alignment: -1326
+Number of matches: 53
+Number of gaps: 9
+Length of alignment: 1485
+Identity: 3.57%
+
+
+
+> EF508204.1 || EU045319.1
+Score of alignment: -1470
+Number of matches: 5
+Number of gaps: 1
+Length of alignment: 1485
+Identity: 0.34%
+
+
+
+> EF508204.1 || EU045323.1
+Score of alignment: -1470
+Number of matches: 5
+Number of gaps: 1
+Length of alignment: 1485
+Identity: 0.34%
+
+
+
+> EF508204.1 || DQ341204.1
+Score of alignment: -1470
+Number of matches: 5
+Number of gaps: 1
+Length of alignment: 1485
+Identity: 0.34%
+
+
+
+> EF508204.1 || AF231724.1
+Score of alignment: 1374
+Number of matches: 953
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 64.18%
+
+
+
+> EF508204.1 || EF436281.1
+Score of alignment: -1470
+Number of matches: 5
+Number of gaps: 10
+Length of alignment: 1485
+Identity: 0.34%
+
+
+
+> EF508204.1 || DQ341219.1
+Score of alignment: 1395
+Number of matches: 960
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 64.65%
+
+
+
+> EF508204.1 || DQ341218.1
+Score of alignment: 1392
+Number of matches: 959
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 64.58%
+
+
+
+> EF508204.1 || AY780644.1
+Score of alignment: 1389
+Number of matches: 958
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 64.51%
+
+
+
+> EF508198.1 || M24447.1
+Score of alignment: 1458
+Number of matches: 981
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 66.06%
+
+
+
+> EF508198.1 || M24448.1
+Score of alignment: 1461
+Number of matches: 982
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 66.13%
+
+
+
+> EF508198.1 || M24449.1
+Score of alignment: 1452
+Number of matches: 979
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.93%
+
+
+
+> EF508198.1 || M24451.1
+Score of alignment: 1437
+Number of matches: 974
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.59%
+
+
+
+> EF508198.1 || M24450.1
+Score of alignment: 1446
+Number of matches: 977
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.79%
+
+
+
+> EF508198.1 || AY338493.1
+Score of alignment: -1443
+Number of matches: 14
+Number of gaps: 3
+Length of alignment: 1485
+Identity: 0.94%
+
+
+
+> EF508198.1 || AY338492.1
+Score of alignment: -1443
+Number of matches: 14
+Number of gaps: 3
+Length of alignment: 1485
+Identity: 0.94%
+
+
+
+> EF508198.1 || EU045319.1
+Score of alignment: -1470
+Number of matches: 5
+Number of gaps: 1
+Length of alignment: 1485
+Identity: 0.34%
+
+
+
+> EF508198.1 || EU045323.1
+Score of alignment: -1470
+Number of matches: 5
+Number of gaps: 1
+Length of alignment: 1485
+Identity: 0.34%
+
+
+
+> EF508198.1 || DQ341204.1
+Score of alignment: -1470
+Number of matches: 5
+Number of gaps: 1
+Length of alignment: 1485
+Identity: 0.34%
+
+
+
+> EF508198.1 || AF231724.1
+Score of alignment: 1380
+Number of matches: 955
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 64.31%
+
+
+
+> EF508198.1 || EF436281.1
+Score of alignment: -1470
+Number of matches: 5
+Number of gaps: 10
+Length of alignment: 1485
+Identity: 0.34%
+
+
+
+> EF508198.1 || DQ341219.1
+Score of alignment: 1398
+Number of matches: 961
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 64.71%
+
+
+
+> EF508198.1 || DQ341218.1
+Score of alignment: 1389
+Number of matches: 958
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 64.51%
+
+
+
+> EF508198.1 || AY780644.1
+Score of alignment: 1392
+Number of matches: 959
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 64.58%
+
+
+
+> M24447.1 || M24448.1
+Score of alignment: 2784
+Number of matches: 1423
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 95.82%
+
+
+
+> M24447.1 || M24449.1
+Score of alignment: 2691
+Number of matches: 1392
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 93.74%
+
+
+
+> M24447.1 || M24451.1
+Score of alignment: 2700
+Number of matches: 1395
+Number of gaps: 2
+Length of alignment: 1485
+Identity: 93.94%
+
+
+
+> M24447.1 || M24450.1
+Score of alignment: 2748
+Number of matches: 1411
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 95.02%
+
+
+
+> M24447.1 || AY338493.1
+Score of alignment: -1449
+Number of matches: 12
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 0.81%
+
+
+
+> M24447.1 || AY338492.1
+Score of alignment: -1449
+Number of matches: 12
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 0.81%
+
+
+
+> M24447.1 || EU045319.1
+Score of alignment: -1473
+Number of matches: 4
+Number of gaps: 1
+Length of alignment: 1485
+Identity: 0.27%
+
+
+
+> M24447.1 || EU045323.1
+Score of alignment: -1473
+Number of matches: 4
+Number of gaps: 1
+Length of alignment: 1485
+Identity: 0.27%
+
+
+
+> M24447.1 || DQ341204.1
+Score of alignment: -1473
+Number of matches: 4
+Number of gaps: 1
+Length of alignment: 1485
+Identity: 0.27%
+
+
+
+> M24447.1 || AF231724.1
+Score of alignment: 1440
+Number of matches: 975
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.66%
+
+
+
+> M24447.1 || EF436281.1
+Score of alignment: -1470
+Number of matches: 5
+Number of gaps: 4
+Length of alignment: 1485
+Identity: 0.34%
+
+
+
+> M24447.1 || DQ341219.1
+Score of alignment: 1422
+Number of matches: 969
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.25%
+
+
+
+> M24447.1 || DQ341218.1
+Score of alignment: 1434
+Number of matches: 973
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.52%
+
+
+
+> M24447.1 || AY780644.1
+Score of alignment: 1401
+Number of matches: 962
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 64.78%
+
+
+
+> M24448.1 || M24449.1
+Score of alignment: 2652
+Number of matches: 1379
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 92.86%
+
+
+
+> M24448.1 || M24451.1
+Score of alignment: 2670
+Number of matches: 1385
+Number of gaps: 4
+Length of alignment: 1485
+Identity: 93.27%
+
+
+
+> M24448.1 || M24450.1
+Score of alignment: 2715
+Number of matches: 1400
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 94.28%
+
+
+
+> M24448.1 || AY338493.1
+Score of alignment: -1467
+Number of matches: 6
+Number of gaps: 1
+Length of alignment: 1485
+Identity: 0.40%
+
+
+
+> M24448.1 || AY338492.1
+Score of alignment: -1467
+Number of matches: 6
+Number of gaps: 1
+Length of alignment: 1485
+Identity: 0.40%
+
+
+
+> M24448.1 || EU045319.1
+Score of alignment: -1467
+Number of matches: 6
+Number of gaps: 1
+Length of alignment: 1485
+Identity: 0.40%
+
+
+
+> M24448.1 || EU045323.1
+Score of alignment: -1467
+Number of matches: 6
+Number of gaps: 1
+Length of alignment: 1485
+Identity: 0.40%
+
+
+
+> M24448.1 || DQ341204.1
+Score of alignment: -1467
+Number of matches: 6
+Number of gaps: 1
+Length of alignment: 1485
+Identity: 0.40%
+
+
+
+> M24448.1 || AF231724.1
+Score of alignment: 1440
+Number of matches: 975
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.66%
+
+
+
+> M24448.1 || EF436281.1
+Score of alignment: -1467
+Number of matches: 6
+Number of gaps: 22
+Length of alignment: 1485
+Identity: 0.40%
+
+
+
+> M24448.1 || DQ341219.1
+Score of alignment: 1416
+Number of matches: 967
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.12%
+
+
+
+> M24448.1 || DQ341218.1
+Score of alignment: 1434
+Number of matches: 973
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.52%
+
+
+
+> M24448.1 || AY780644.1
+Score of alignment: 1428
+Number of matches: 971
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.39%
+
+
+
+> M24449.1 || M24451.1
+Score of alignment: 2601
+Number of matches: 1362
+Number of gaps: 4
+Length of alignment: 1485
+Identity: 91.72%
+
+
+
+> M24449.1 || M24450.1
+Score of alignment: 2667
+Number of matches: 1384
+Number of gaps: 10
+Length of alignment: 1485
+Identity: 93.20%
+
+
+
+> M24449.1 || AY338493.1
+Score of alignment: -1449
+Number of matches: 12
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 0.81%
+
+
+
+> M24449.1 || AY338492.1
+Score of alignment: -1449
+Number of matches: 12
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 0.81%
+
+
+
+> M24449.1 || EU045319.1
+Score of alignment: -1452
+Number of matches: 11
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 0.74%
+
+
+
+> M24449.1 || EU045323.1
+Score of alignment: -1452
+Number of matches: 11
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 0.74%
+
+
+
+> M24449.1 || DQ341204.1
+Score of alignment: -1452
+Number of matches: 11
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 0.74%
+
+
+
+> M24449.1 || AF231724.1
+Score of alignment: 1455
+Number of matches: 980
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.99%
+
+
+
+> M24449.1 || EF436281.1
+Score of alignment: -1422
+Number of matches: 21
+Number of gaps: 43
+Length of alignment: 1485
+Identity: 1.41%
+
+
+
+> M24449.1 || DQ341219.1
+Score of alignment: 1413
+Number of matches: 966
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.05%
+
+
+
+> M24449.1 || DQ341218.1
+Score of alignment: 1428
+Number of matches: 971
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.39%
+
+
+
+> M24449.1 || AY780644.1
+Score of alignment: 1404
+Number of matches: 963
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 64.85%
+
+
+
+> M24451.1 || M24450.1
+Score of alignment: 2718
+Number of matches: 1401
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 94.34%
+
+
+
+> M24451.1 || AY338493.1
+Score of alignment: -1452
+Number of matches: 11
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 0.74%
+
+
+
+> M24451.1 || AY338492.1
+Score of alignment: -1452
+Number of matches: 11
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 0.74%
+
+
+
+> M24451.1 || EU045319.1
+Score of alignment: -1455
+Number of matches: 10
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 0.67%
+
+
+
+> M24451.1 || EU045323.1
+Score of alignment: -1455
+Number of matches: 10
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 0.67%
+
+
+
+> M24451.1 || DQ341204.1
+Score of alignment: -1455
+Number of matches: 10
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 0.67%
+
+
+
+> M24451.1 || AF231724.1
+Score of alignment: 1404
+Number of matches: 963
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 64.85%
+
+
+
+> M24451.1 || EF436281.1
+Score of alignment: -1467
+Number of matches: 6
+Number of gaps: 22
+Length of alignment: 1485
+Identity: 0.40%
+
+
+
+> M24451.1 || DQ341219.1
+Score of alignment: 1407
+Number of matches: 964
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 64.92%
+
+
+
+> M24451.1 || DQ341218.1
+Score of alignment: 1419
+Number of matches: 968
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.19%
+
+
+
+> M24451.1 || AY780644.1
+Score of alignment: 1401
+Number of matches: 962
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 64.78%
+
+
+
+> M24450.1 || AY338493.1
+Score of alignment: -1449
+Number of matches: 12
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 0.81%
+
+
+
+> M24450.1 || AY338492.1
+Score of alignment: -1449
+Number of matches: 12
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 0.81%
+
+
+
+> M24450.1 || EU045319.1
+Score of alignment: -1452
+Number of matches: 11
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 0.74%
+
+
+
+> M24450.1 || EU045323.1
+Score of alignment: -1452
+Number of matches: 11
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 0.74%
+
+
+
+> M24450.1 || DQ341204.1
+Score of alignment: -1452
+Number of matches: 11
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 0.74%
+
+
+
+> M24450.1 || AF231724.1
+Score of alignment: 1416
+Number of matches: 967
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.12%
+
+
+
+> M24450.1 || EF436281.1
+Score of alignment: -1461
+Number of matches: 8
+Number of gaps: 22
+Length of alignment: 1485
+Identity: 0.54%
+
+
+
+> M24450.1 || DQ341219.1
+Score of alignment: 1413
+Number of matches: 966
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.05%
+
+
+
+> M24450.1 || DQ341218.1
+Score of alignment: 1413
+Number of matches: 966
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 65.05%
+
+
+
+> M24450.1 || AY780644.1
+Score of alignment: 1407
+Number of matches: 964
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 64.92%
+
+
+
+> AY338493.1 || AY338492.1
+Score of alignment: 2856
+Number of matches: 1445
+Number of gaps: 2
+Length of alignment: 1479
+Identity: 97.70%
+
+
+
+> AY338493.1 || EU045319.1
+Score of alignment: 2610
+Number of matches: 1363
+Number of gaps: 6
+Length of alignment: 1479
+Identity: 92.16%
+
+
+
+> AY338493.1 || EU045323.1
+Score of alignment: 2604
+Number of matches: 1361
+Number of gaps: 0
+Length of alignment: 1479
+Identity: 92.02%
+
+
+
+> AY338493.1 || DQ341204.1
+Score of alignment: 2652
+Number of matches: 1377
+Number of gaps: 4
+Length of alignment: 1479
+Identity: 93.10%
+
+
+
+> AY338493.1 || AF231724.1
+Score of alignment: -1467
+Number of matches: 6
+Number of gaps: 2
+Length of alignment: 1485
+Identity: 0.40%
+
+
+
+> AY338493.1 || EF436281.1
+Score of alignment: -1440
+Number of matches: 13
+Number of gaps: 10
+Length of alignment: 1479
+Identity: 0.88%
+
+
+
+> AY338493.1 || DQ341219.1
+Score of alignment: -1419
+Number of matches: 22
+Number of gaps: 3
+Length of alignment: 1485
+Identity: 1.48%
+
+
+
+> AY338493.1 || DQ341218.1
+Score of alignment: -1326
+Number of matches: 53
+Number of gaps: 5
+Length of alignment: 1485
+Identity: 3.57%
+
+
+
+> AY338493.1 || AY780644.1
+Score of alignment: -1377
+Number of matches: 36
+Number of gaps: 7
+Length of alignment: 1485
+Identity: 2.42%
+
+
+
+> AY338492.1 || EU045319.1
+Score of alignment: 2640
+Number of matches: 1373
+Number of gaps: 4
+Length of alignment: 1479
+Identity: 92.83%
+
+
+
+> AY338492.1 || EU045323.1
+Score of alignment: 2628
+Number of matches: 1369
+Number of gaps: 0
+Length of alignment: 1479
+Identity: 92.56%
+
+
+
+> AY338492.1 || DQ341204.1
+Score of alignment: 2685
+Number of matches: 1388
+Number of gaps: 2
+Length of alignment: 1479
+Identity: 93.85%
+
+
+
+> AY338492.1 || AF231724.1
+Score of alignment: -1467
+Number of matches: 6
+Number of gaps: 2
+Length of alignment: 1485
+Identity: 0.40%
+
+
+
+> AY338492.1 || EF436281.1
+Score of alignment: -1440
+Number of matches: 13
+Number of gaps: 10
+Length of alignment: 1479
+Identity: 0.88%
+
+
+
+> AY338492.1 || DQ341219.1
+Score of alignment: -1419
+Number of matches: 22
+Number of gaps: 3
+Length of alignment: 1485
+Identity: 1.48%
+
+
+
+> AY338492.1 || DQ341218.1
+Score of alignment: -1326
+Number of matches: 53
+Number of gaps: 5
+Length of alignment: 1485
+Identity: 3.57%
+
+
+
+> AY338492.1 || AY780644.1
+Score of alignment: -1377
+Number of matches: 36
+Number of gaps: 7
+Length of alignment: 1485
+Identity: 2.42%
+
+
+
+> EU045319.1 || EU045323.1
+Score of alignment: 2895
+Number of matches: 1458
+Number of gaps: 0
+Length of alignment: 1479
+Identity: 98.58%
+
+
+
+> EU045319.1 || DQ341204.1
+Score of alignment: 2898
+Number of matches: 1459
+Number of gaps: 0
+Length of alignment: 1479
+Identity: 98.65%
+
+
+
+> EU045319.1 || AF231724.1
+Score of alignment: -1464
+Number of matches: 7
+Number of gaps: 2
+Length of alignment: 1485
+Identity: 0.47%
+
+
+
+> EU045319.1 || EF436281.1
+Score of alignment: -1422
+Number of matches: 19
+Number of gaps: 23
+Length of alignment: 1479
+Identity: 1.28%
+
+
+
+> EU045319.1 || DQ341219.1
+Score of alignment: -1455
+Number of matches: 10
+Number of gaps: 3
+Length of alignment: 1485
+Identity: 0.67%
+
+
+
+> EU045319.1 || DQ341218.1
+Score of alignment: -1455
+Number of matches: 10
+Number of gaps: 3
+Length of alignment: 1485
+Identity: 0.67%
+
+
+
+> EU045319.1 || AY780644.1
+Score of alignment: -1380
+Number of matches: 35
+Number of gaps: 8
+Length of alignment: 1485
+Identity: 2.36%
+
+
+
+> EU045323.1 || DQ341204.1
+Score of alignment: 2877
+Number of matches: 1452
+Number of gaps: 0
+Length of alignment: 1479
+Identity: 98.17%
+
+
+
+> EU045323.1 || AF231724.1
+Score of alignment: -1464
+Number of matches: 7
+Number of gaps: 2
+Length of alignment: 1485
+Identity: 0.47%
+
+
+
+> EU045323.1 || EF436281.1
+Score of alignment: -1419
+Number of matches: 20
+Number of gaps: 23
+Length of alignment: 1479
+Identity: 1.35%
+
+
+
+> EU045323.1 || DQ341219.1
+Score of alignment: -1455
+Number of matches: 10
+Number of gaps: 3
+Length of alignment: 1485
+Identity: 0.67%
+
+
+
+> EU045323.1 || DQ341218.1
+Score of alignment: -1455
+Number of matches: 10
+Number of gaps: 3
+Length of alignment: 1485
+Identity: 0.67%
+
+
+
+> EU045323.1 || AY780644.1
+Score of alignment: -1380
+Number of matches: 35
+Number of gaps: 10
+Length of alignment: 1485
+Identity: 2.36%
+
+
+
+> DQ341204.1 || AF231724.1
+Score of alignment: -1464
+Number of matches: 7
+Number of gaps: 2
+Length of alignment: 1485
+Identity: 0.47%
+
+
+
+> DQ341204.1 || EF436281.1
+Score of alignment: -1416
+Number of matches: 21
+Number of gaps: 34
+Length of alignment: 1479
+Identity: 1.42%
+
+
+
+> DQ341204.1 || DQ341219.1
+Score of alignment: -1455
+Number of matches: 10
+Number of gaps: 3
+Length of alignment: 1485
+Identity: 0.67%
+
+
+
+> DQ341204.1 || DQ341218.1
+Score of alignment: -1455
+Number of matches: 10
+Number of gaps: 3
+Length of alignment: 1485
+Identity: 0.67%
+
+
+
+> DQ341204.1 || AY780644.1
+Score of alignment: -1380
+Number of matches: 35
+Number of gaps: 8
+Length of alignment: 1485
+Identity: 2.36%
+
+
+
+> AF231724.1 || EF436281.1
+Score of alignment: -1452
+Number of matches: 11
+Number of gaps: 25
+Length of alignment: 1485
+Identity: 0.74%
+
+
+
+> AF231724.1 || DQ341219.1
+Score of alignment: 2346
+Number of matches: 1277
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 85.99%
+
+
+
+> AF231724.1 || DQ341218.1
+Score of alignment: 2346
+Number of matches: 1277
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 85.99%
+
+
+
+> AF231724.1 || AY780644.1
+Score of alignment: 2337
+Number of matches: 1274
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 85.79%
+
+
+
+> EF436281.1 || DQ341219.1
+Score of alignment: -1461
+Number of matches: 8
+Number of gaps: 12
+Length of alignment: 1485
+Identity: 0.54%
+
+
+
+> EF436281.1 || DQ341218.1
+Score of alignment: -1461
+Number of matches: 8
+Number of gaps: 12
+Length of alignment: 1485
+Identity: 0.54%
+
+
+
+> EF436281.1 || AY780644.1
+Score of alignment: -1482
+Number of matches: 1
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 0.07%
+
+
+
+> DQ341219.1 || DQ341218.1
+Score of alignment: 2856
+Number of matches: 1447
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 97.44%
+
+
+
+> DQ341219.1 || AY780644.1
+Score of alignment: 2613
+Number of matches: 1366
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 91.99%
+
+
+
+> DQ341218.1 || AY780644.1
+Score of alignment: 2637
+Number of matches: 1374
+Number of gaps: 0
+Length of alignment: 1485
+Identity: 92.53%
+
+
+
+=====================
+Number of pairwise alignment made: 190
+Elapsed time: 21371 ms
